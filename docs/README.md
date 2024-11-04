@@ -10,7 +10,7 @@
 2. **Create a New Bucket**:
    - Click on **Create bucket**.
    - Enter a unique name for your bucket and configure other settings as needed.
-   ![S3BucketName](/docs/IAM S3 Object Encryption with AWS KMS/Screenshot 2024-11-04 165903.png)
+   ![S3BucketName](Screenshot 2024-11-04 165903.png)
    
 3. **Finalize Bucket Creation**:
    - Scroll down and click **Create bucket**.
