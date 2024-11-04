@@ -14,7 +14,7 @@
    
 3. **Finalize Bucket Creation**:
    - Scroll down and click **Create bucket**.
-   ![S3BucketCreated](docs/Lab%2011%20IAM%20S3%20Object%20Encryption%20with%20AWS%20KMS/img/S3BucketCreated.png)
+   ![S3BucketCreated](KNS 1.png)
 
 ---
 
